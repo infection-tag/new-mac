@@ -16,7 +16,7 @@ Softwares for a new Mac (from my old one). This is for me but you can use it too
 
 ## Coding
 [Run this script](./setup.sh) which installs everything
-```
+```sh
 sh setup.sh
 # or
 chmod +x setup.sh
